@@ -26,6 +26,7 @@ Bar chart comparing average scores of male and female students.
 🤝 Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request with improvements or new ideas.
+
 📧 Contact
 
 For any questions or feedback, please reach out via email at preetam100832@gmail.com
