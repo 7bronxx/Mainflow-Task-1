@@ -3,8 +3,8 @@
 Student Performance Analysis
 
 Welcome to the Student Performance Analysis project! In this project, we perform an exploratory data analysis (EDA) on a dataset containing students' exam scores to uncover insights about their performance based on various factors like study time and gender.
-🔍 Data Overview
 
+🔍 Data Overview
 Dataset: student-mat.csv
 
 Columns of Interest:
